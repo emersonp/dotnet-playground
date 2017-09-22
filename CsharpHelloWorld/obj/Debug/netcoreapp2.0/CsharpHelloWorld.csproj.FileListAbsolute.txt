@@ -1,0 +1,9 @@
+/mnt/c/Users/parker00/Documents/dotnet/CsharpHelloWorld/bin/Debug/netcoreapp2.0/CsharpHelloWorld.deps.json
+/mnt/c/Users/parker00/Documents/dotnet/CsharpHelloWorld/bin/Debug/netcoreapp2.0/CsharpHelloWorld.runtimeconfig.json
+/mnt/c/Users/parker00/Documents/dotnet/CsharpHelloWorld/bin/Debug/netcoreapp2.0/CsharpHelloWorld.runtimeconfig.dev.json
+/mnt/c/Users/parker00/Documents/dotnet/CsharpHelloWorld/bin/Debug/netcoreapp2.0/CsharpHelloWorld.dll
+/mnt/c/Users/parker00/Documents/dotnet/CsharpHelloWorld/bin/Debug/netcoreapp2.0/CsharpHelloWorld.pdb
+/mnt/c/Users/parker00/Documents/dotnet/CsharpHelloWorld/obj/Debug/netcoreapp2.0/CsharpHelloWorld.csproj.CoreCompileInputs.cache
+/mnt/c/Users/parker00/Documents/dotnet/CsharpHelloWorld/obj/Debug/netcoreapp2.0/CsharpHelloWorld.AssemblyInfo.cs
+/mnt/c/Users/parker00/Documents/dotnet/CsharpHelloWorld/obj/Debug/netcoreapp2.0/CsharpHelloWorld.dll
+/mnt/c/Users/parker00/Documents/dotnet/CsharpHelloWorld/obj/Debug/netcoreapp2.0/CsharpHelloWorld.pdb
